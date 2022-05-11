@@ -6,6 +6,6 @@ This repo is a collection of libraries for productive work in data science. Most
 
 ### Formatting, tests, project management
 
-**nbsmoke** - Basic notebook smoke tests. Do they run ok? Do they contain lint?
+**[nbsmoke](https://github.com/pyviz-dev/nbsmoke)** - Basic notebook smoke tests. Do they run ok? Do they contain lint?
 
-Cookiecutter Data Science - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work
+**[Cookiecutter Data Science](https://github.com/drivendata/cookiecutter-data-science)** - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work
